@@ -1,0 +1,1 @@
+- Built and troubleshot a Kubernetes ClusterIP Service for a 3-replica NGINX portal in a local Rancher Desktop lab; validated internal DNS and HTTP access, diagnosed a selector mismatch using EndpointSlices, restored 3 pod backends, and saved reusable YAML configuration.
