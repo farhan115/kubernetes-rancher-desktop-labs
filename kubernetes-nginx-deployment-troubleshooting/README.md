@@ -1,0 +1,1 @@
+Deployed NGINX on a local Kubernetes cluster using Rancher Desktop, scaled to three replicas, verified automatic Pod replacement, diagnosed an invalid-image failure, and restored the application through a Deployment rollback.
